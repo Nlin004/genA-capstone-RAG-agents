@@ -13,10 +13,10 @@
   a single read-only `SELECT`, executes it against SQLite, optionally
   renders a chart, and asks Gemini to summarize the result.
 
-## STEPS TO RUN:
+## Setup Instructions:
 
 
-### SETUP
+### Initial Environment
 - cd to `rag_capstone/` as root level
 - Activate venv 
 - `python3.12 -m pip install -r requirements.txt`
